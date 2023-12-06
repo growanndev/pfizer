@@ -690,7 +690,7 @@ header .menu li:nth-of-type(2) .line {
         opacity: 1;
       }
       &.on .con3-title .line {
-        width: 50%;
+        width: 40%;
       }
       &.on p {
         transform: translateY(0px);
@@ -1038,7 +1038,7 @@ header .menu li:nth-of-type(2) .line {
         display: flex;
         justify-content: start;
         align-items: baseline;
-        gap: 0px;
+        gap: 10px;
         h2 {
           opacity: 0;
           transition: 0.5s;
@@ -1086,7 +1086,7 @@ header .menu li:nth-of-type(2) .line {
         opacity: 1;
       }
       &.on .con3-title .line {
-        width: 50%;
+        width: 35%;
       }
       &.on p {
         transform: translateY(0px);
@@ -1131,7 +1131,7 @@ header .menu li:nth-of-type(2) .line {
           // justify-content: space-between;
           margin: 0px auto;
           li {
-            width: 80%;
+            width: 30vw;
             // width: 20%;
             text-align: center;
             margin: 0px auto 70px;

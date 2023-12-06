@@ -147,7 +147,7 @@ header .menu li:nth-of-type(3) .line {
     bottom: -5%;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li .text p {
-    font-size: 18px;
+    font-size: 20px;
     color: #fff;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li .text-on {
@@ -297,7 +297,7 @@ header .menu li:nth-of-type(3) .line {
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .alpha li {
     text-align: center;
-    font-size: 1.1vw;
+    font-size: 20px;
     font-weight: bold;
     cursor: pointer;
     margin-bottom: 10px;
@@ -310,11 +310,14 @@ header .menu li:nth-of-type(3) .line {
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .product-name li h4 a {
     color: #003fe2;
-    font-size: 1vw;
+    font-size: 20px;
+  }
+  #container .con2 .con2-top-wrap .con2-list-wrap .product_list .product-name li h4 a:hover {
+    text-decoration: underline;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .product-name li p {
     color: #777;
-    font-size: 0.8vw;
+    font-size: 16px;
   }
   #container .con2 .con2-bottom {
     width: 80%;
@@ -416,7 +419,7 @@ header .menu li:nth-of-type(3) .line {
   #container .con1 .con1-text {
     width: 80%;
     max-width: 1200px;
-    margin: 0px auto 8vw;
+    margin: 0px auto 100px;
   }
   #container .con1 .con1-text > h2 .line {
     width: 0%;
@@ -614,7 +617,7 @@ header .menu li:nth-of-type(3) .line {
   #container .con2 .con2-top-wrap .con2-list-wrap .search .search-box form input {
     display: inline-block;
     width: 80%;
-    font-size: 24px;
+    font-size: 23px;
     border: none;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .search .search-box form input::-moz-placeholder {
@@ -649,7 +652,7 @@ header .menu li:nth-of-type(3) .line {
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .alpha li {
     text-align: center;
-    font-size: 2vw;
+    font-size: 22px;
     font-weight: bold;
     cursor: pointer;
     margin-bottom: 10px;
@@ -662,11 +665,14 @@ header .menu li:nth-of-type(3) .line {
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .product-name li h4 a {
     color: #003fe2;
-    font-size: 1.8vw;
+    font-size: 21px;
+  }
+  #container .con2 .con2-top-wrap .con2-list-wrap .product_list .product-name li h4 a:hover {
+    text-decoration: underline;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .product-name li p {
     color: #777;
-    font-size: 1.6vw;
+    font-size: 16px;
   }
   #container .con2 .con2-bottom {
     width: 80%;
@@ -786,7 +792,7 @@ header .menu li:nth-of-type(3) .line {
     margin: 100px 0px 40px;
   }
   #container .con1 .con1-text > p:nth-of-type(2) a {
-    font-size: 20px;
+    font-size: 16px;
     text-transform: uppercase;
     color: #003fe2;
   }
@@ -850,7 +856,7 @@ header .menu li:nth-of-type(3) .line {
     bottom: -5%;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li .text p {
-    font-size: 18px;
+    font-size: 2.5vw;
     color: #fff;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li .text-on {
@@ -1002,7 +1008,7 @@ header .menu li:nth-of-type(3) .line {
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .alpha li {
     text-align: center;
-    font-size: 4.2vw;
+    font-size: 20px;
     font-weight: bold;
     cursor: pointer;
     margin-bottom: 10px;
@@ -1015,11 +1021,14 @@ header .menu li:nth-of-type(3) .line {
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .product-name li h4 a {
     color: #003fe2;
-    font-size: 3.3vw;
+    font-size: 18px;
+  }
+  #container .con2 .con2-top-wrap .con2-list-wrap .product_list .product-name li h4 a:hover {
+    text-decoration: underline;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .product-name li p {
     color: #777;
-    font-size: 2.7vw;
+    font-size: 16px;
   }
   #container .con2 .con2-bottom {
     width: 80%;

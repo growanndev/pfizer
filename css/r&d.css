@@ -658,7 +658,7 @@ header .menu li:nth-of-type(2) .line {
     opacity: 1;
   }
   #container .con3.on .con3-title .line {
-    width: 50%;
+    width: 40%;
   }
   #container .con3.on p {
     transform: translateY(0px);
@@ -981,7 +981,7 @@ header .menu li:nth-of-type(2) .line {
     display: flex;
     justify-content: start;
     align-items: baseline;
-    gap: 0px;
+    gap: 10px;
   }
   #container .con3 .con3-title h2 {
     opacity: 0;
@@ -1027,7 +1027,7 @@ header .menu li:nth-of-type(2) .line {
     opacity: 1;
   }
   #container .con3.on .con3-title .line {
-    width: 50%;
+    width: 35%;
   }
   #container .con3.on p {
     transform: translateY(0px);
@@ -1066,7 +1066,7 @@ header .menu li:nth-of-type(2) .line {
     margin: 0px auto;
   }
   #container .con4 .con4-inner .con4-list li {
-    width: 80%;
+    width: 30vw;
     text-align: center;
     margin: 0px auto 70px;
     opacity: 0;
