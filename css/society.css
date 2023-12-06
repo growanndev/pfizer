@@ -143,7 +143,8 @@ header .menu li:nth-of-type(4) .line {
     width: 100%;
     height: 100%;
     border-radius: 20px;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con1.on .title .line {
     width: 70%;
@@ -199,7 +200,8 @@ header .menu li:nth-of-type(4) .line {
     display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con2 .con2-inner .con2-content .con2-text {
     width: 60%;
@@ -332,7 +334,8 @@ header .menu li:nth-of-type(4) .line {
   .container .con4 .con4-inner .con4-pic img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con4.on {
     transform: translateY(0px);
@@ -563,7 +566,8 @@ header .menu li:nth-of-type(4) .line {
     width: 100%;
     height: 100%;
     border-radius: 20px;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con1.on .title .line {
     width: 70%;
@@ -619,7 +623,8 @@ header .menu li:nth-of-type(4) .line {
     display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con2 .con2-inner .con2-content .con2-text {
     width: 60%;
@@ -690,7 +695,8 @@ header .menu li:nth-of-type(4) .line {
   .container .con3 .con3-inner .con3-content .con3-pic img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con3.on .con3-title {
     transform: translateY(0px);
@@ -755,7 +761,8 @@ header .menu li:nth-of-type(4) .line {
   .container .con4 .con4-inner .con4-pic img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con4.on {
     transform: translateY(0px);
@@ -985,7 +992,8 @@ header .menu li:nth-of-type(4) .line {
     width: 100%;
     height: 100%;
     border-radius: 20px;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con1.on .title .line {
     width: 50%;
@@ -1038,7 +1046,8 @@ header .menu li:nth-of-type(4) .line {
     display: block;
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con2 .con2-inner .con2-content .con2-text {
     width: 100%;
@@ -1105,7 +1114,8 @@ header .menu li:nth-of-type(4) .line {
   .container .con3 .con3-inner .con3-content .con3-pic img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con3.on .con3-title {
     transform: translateY(0px);
@@ -1170,7 +1180,8 @@ header .menu li:nth-of-type(4) .line {
   .container .con4 .con4-inner .con4-pic img {
     width: 100%;
     height: 100%;
-    object-fit: cover;
+    -o-object-fit: cover;
+       object-fit: cover;
   }
   .container .con4.on {
     transform: translateY(0px);
