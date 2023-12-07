@@ -118,8 +118,8 @@ header .menu li:nth-of-type(2) .line {
           h3 {
             font-size: 30px;
             opacity: 0;
-            transform: translateX(5%);
-            transition: 1s 1.7s;
+            transform: translateX(15%);
+            transition: 1s 1s;
           }
           p {
             font-size: 22px;
@@ -127,12 +127,12 @@ header .menu li:nth-of-type(2) .line {
           p:nth-of-type(1) {
             margin: 5vw 0px 10vw;
             opacity: 0;
-            transform: translateX(5%);
-            transition: 1s 1.7s;
+            transform: translateX(15%);
+            transition: 1s 1s;
           }
           p:nth-of-type(2) {
             opacity: 0;
-            transform: translateX(5%);
+            transform: translateX(15%);
             transition: 1s;
             &.on {
               transform: translateX(0px);
@@ -190,7 +190,7 @@ header .menu li:nth-of-type(2) .line {
           margin: 10px 0px 80px;
           opacity: 0;
           transform: translateY(10px);
-          transition: 1s 1.5s;
+          transition: 1s 1.2s;
         }
         .con2-list {
           display: flex;
@@ -204,7 +204,7 @@ header .menu li:nth-of-type(2) .line {
             opacity: 0;
             // transform: translateY(40px);
             transform: rotateX(180deg);
-            transition: 0.8s 2.5s;
+            transition: 0.8s 2s;
             transform-style: preserve-3d;
             img {
               width: 100%;
@@ -268,12 +268,12 @@ header .menu li:nth-of-type(2) .line {
         margin: 4vw 0px 10vw;
         opacity: 0;
         transform: translateY(20px);
-        transition: 1s 1.5s;
+        transition: 1s 1.8s;
       }
       .more {
         opacity: 0;
         transform: translateY(20px);
-        transition: 1s 2s;
+        transition: 1s 2.4s;
         a {
           width: 250px;
           border-radius: 30px;
@@ -287,7 +287,7 @@ header .menu li:nth-of-type(2) .line {
         right: -2vw;
         z-index: -1;
         opacity: 0;
-        transition: 2s 2.8s;
+        transition: 2s 1s;
         img {
           width: 100%;
         }
@@ -510,8 +510,8 @@ header .menu li:nth-of-type(2) .line {
           h3 {
             font-size: 28px;
             opacity: 0;
-            transform: translateX(5%);
-            transition: 1s 1.7s;
+            transform: translateX(15%);
+            transition: 1s 1s;
           }
           p {
             font-size: 18px;
@@ -519,12 +519,12 @@ header .menu li:nth-of-type(2) .line {
           p:nth-of-type(1) {
             margin: 5vw 0px 10vw;
             opacity: 0;
-            transform: translateX(5%);
-            transition: 1s 1.7s;
+            transform: translateX(15%);
+            transition: 1s 1s;
           }
           p:nth-of-type(2) {
             opacity: 0;
-            transform: translateX(5%);
+            transform: translateX(15%);
             transition: 1s;
             &.on {
               transform: translateX(0px);
@@ -582,7 +582,7 @@ header .menu li:nth-of-type(2) .line {
           margin: 20px 0px 80px;
           opacity: 0;
           transform: translateY(10px);
-          transition: 1s 1.5s;
+          transition: 1s 1.2s;
         }
         .con2-list {
           display: flex;
@@ -596,7 +596,7 @@ header .menu li:nth-of-type(2) .line {
             opacity: 0;
             // transform: translateY(40px);
             transform: rotateX(180deg);
-            transition: 0.8s 2.5s;
+            transition: 0.8s 2s;
             transform-style: preserve-3d;
             img {
               width: 100%;
@@ -662,12 +662,12 @@ header .menu li:nth-of-type(2) .line {
         margin: 4vw 0px 10vw;
         opacity: 0;
         transform: translateY(20px);
-        transition: 1s 1.5s;
+        transition: 1s 1.8s;
       }
       .more {
         opacity: 0;
         transform: translateY(20px);
-        transition: 1s 2s;
+        transition: 1s 2.4s;
         a {
           width: 250px;
           border-radius: 30px;
@@ -681,7 +681,7 @@ header .menu li:nth-of-type(2) .line {
         right: -2vw;
         z-index: -1;
         opacity: 0;
-        transition: 2s 2.8s;
+        transition: 2s 1s;
         img {
           width: 100%;
         }
@@ -907,8 +907,8 @@ header .menu li:nth-of-type(2) .line {
           h3 {
             font-size: 20px;
             opacity: 0;
-            transform: translateX(5%);
-            transition: 1s 1.7s;
+            transform: translateX(15%);
+            transition: 1s 1s;
           }
           p {
             font-size: 16px;
@@ -916,12 +916,12 @@ header .menu li:nth-of-type(2) .line {
           p:nth-of-type(1) {
             margin: 8vw 0px 10vw;
             opacity: 0;
-            transform: translateX(5%);
-            transition: 1s 1.7s;
+            transform: translateX(15%);
+            transition: 1s 1s;
           }
           p:nth-of-type(2) {
             opacity: 0;
-            transform: translateX(5%);
+            transform: translateX(15%);
             transition: 1s;
             &.on {
               transform: translateX(0px);
@@ -978,7 +978,7 @@ header .menu li:nth-of-type(2) .line {
           margin: 20px 0px 60px;
           opacity: 0;
           transform: translateY(10px);
-          transition: 1s 1.5s;
+          transition: 1s 1.2s;
         }
         .con2-list {
           display: flex;
@@ -992,7 +992,7 @@ header .menu li:nth-of-type(2) .line {
             opacity: 0;
             // transform: translateY(40px);
             transform: rotateX(180deg);
-            transition: 0.8s 2.5s;
+            transition: 0.8s 2s;
             transform-style: preserve-3d;
             img {
               width: 100%;
@@ -1057,12 +1057,12 @@ header .menu li:nth-of-type(2) .line {
         margin: 80px 0px 100px;
         opacity: 0;
         transform: translateY(20px);
-        transition: 1s 1.5s;
+        transition: 1s 1.8s;
       }
       .more {
         opacity: 0;
         transform: translateY(20px);
-        transition: 1s 2s;
+        transition: 1s 2.4s;
         a {
           font-size: 2.7vw;
           width: 35vw;
@@ -1077,7 +1077,7 @@ header .menu li:nth-of-type(2) .line {
         right: -2vw;
         z-index: -1;
         opacity: 0;
-        transition: 2s 2.8s;
+        transition: 2s 1s;
         img {
           width: 100%;
         }

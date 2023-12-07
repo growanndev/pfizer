@@ -76,7 +76,7 @@ header .menu li:nth-of-type(3) .line {
     font-size: 24px;
     opacity: 0;
     transform: translateY(30px);
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con1 .con1-text > p:nth-of-type(1) {
     margin: 100px 0px 40px;
@@ -105,7 +105,7 @@ header .menu li:nth-of-type(3) .line {
     bottom: 3vw;
     left: 0.5vw;
     opacity: 0;
-    transition: 1s 2s;
+    transition: 1s 1.5s;
   }
   #container .con1 .con1-content .con1-slide-wrap {
     position: relative;
@@ -190,16 +190,16 @@ header .menu li:nth-of-type(3) .line {
     color: #fff;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(1) {
-    transition: 1s 2.7s;
+    transition: 1s 1.6s;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(2) {
-    transition: 1s 3s;
+    transition: 1s 1.9s;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(3) {
-    transition: 1s 3.3s;
+    transition: 1s 2.2s;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(4) {
-    transition: 1s 3.7s;
+    transition: 1s 2.5s;
   }
   #container .con1.on .title {
     opacity: 1;
@@ -238,7 +238,7 @@ header .menu li:nth-of-type(3) .line {
     margin-bottom: 110px;
     opacity: 0;
     transform: translateY(20px);
-    transition: 1s 1s;
+    transition: 1s;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap {
     display: flex;
@@ -248,7 +248,7 @@ header .menu li:nth-of-type(3) .line {
     width: 43%;
     opacity: 0;
     transform: translateX(-20px);
-    transition: 1s 1.8s;
+    transition: 1s 1s;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .search .search-box form {
     display: flex;
@@ -293,7 +293,7 @@ header .menu li:nth-of-type(3) .line {
     gap: 25px;
     opacity: 0;
     transform: translateX(20px);
-    transition: 1s 2.3s;
+    transition: 1s 1s;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .alpha li {
     text-align: center;
@@ -328,7 +328,7 @@ header .menu li:nth-of-type(3) .line {
   #container .con2 .con2-bottom p {
     opacity: 0;
     transform: translateY(40px);
-    transition: 1s 2.8s;
+    transition: 1s 1.5s;
   }
   #container .con2 .con2-bottom p:nth-of-type(1) {
     margin: 100px 0px 60px;
@@ -431,7 +431,7 @@ header .menu li:nth-of-type(3) .line {
     font-size: 20px;
     opacity: 0;
     transform: translateY(30px);
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con1 .con1-text > p:nth-of-type(1) {
     margin: 100px 0px 40px;
@@ -460,7 +460,7 @@ header .menu li:nth-of-type(3) .line {
     bottom: 3vw;
     left: 0.5vw;
     opacity: 0;
-    transition: 1s 2s;
+    transition: 1s 1.5s;
   }
   #container .con1 .con1-content .con1-slide-wrap {
     position: relative;
@@ -549,16 +549,16 @@ header .menu li:nth-of-type(3) .line {
     color: #fff;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(1) {
-    transition: 1s 2.7s;
+    transition: 1s 1.6s;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(2) {
-    transition: 1s 3s;
+    transition: 1s 1.9s;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(3) {
-    transition: 1s 3.3s;
+    transition: 1s 2.2s;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(4) {
-    transition: 1s 3.7s;
+    transition: 1s 2.5s;
   }
   #container .con1.on .title {
     opacity: 1;
@@ -597,14 +597,14 @@ header .menu li:nth-of-type(3) .line {
     margin-bottom: 110px;
     opacity: 0;
     transform: translateY(20px);
-    transition: 1s 1s;
+    transition: 1s;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .search {
     width: 80%;
     margin: 0px auto 100px;
     opacity: 0;
     transform: translateX(-20px);
-    transition: 1s 1.8s;
+    transition: 1s 1s;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .search .search-box form {
     display: flex;
@@ -648,7 +648,7 @@ header .menu li:nth-of-type(3) .line {
     gap: 30px;
     opacity: 0;
     transform: translateX(20px);
-    transition: 1s 2.3s;
+    transition: 1s 1s;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .alpha li {
     text-align: center;
@@ -683,7 +683,7 @@ header .menu li:nth-of-type(3) .line {
   #container .con2 .con2-bottom p {
     opacity: 0;
     transform: translateY(40px);
-    transition: 1s 2.8s;
+    transition: 1s 1.5s;
   }
   #container .con2 .con2-bottom p:nth-of-type(1) {
     margin: 100px 0px 60px;
@@ -786,7 +786,7 @@ header .menu li:nth-of-type(3) .line {
     font-size: 16px;
     opacity: 0;
     transform: translateY(30px);
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con1 .con1-text > p:nth-of-type(1) {
     margin: 100px 0px 40px;
@@ -814,7 +814,7 @@ header .menu li:nth-of-type(3) .line {
     bottom: 10vw;
     left: 0.5vw;
     opacity: 0;
-    transition: 1s 2s;
+    transition: 1s 1.5s;
   }
   #container .con1 .con1-content .con1-slide-wrap {
     position: relative;
@@ -905,16 +905,16 @@ header .menu li:nth-of-type(3) .line {
     color: #fff;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(1) {
-    transition: 1s 2.7s;
+    transition: 1s 1.6s;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(2) {
-    transition: 1s 3s;
+    transition: 1s 1.9s;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(3) {
-    transition: 1s 3.3s;
+    transition: 1s 2.2s;
   }
   #container .con1 .con1-content .con1-slide-wrap .con1-slide li:nth-of-type(4) {
-    transition: 1s 3.7s;
+    transition: 1s 2.5s;
   }
   #container .con1.on .title {
     opacity: 1;
@@ -953,14 +953,14 @@ header .menu li:nth-of-type(3) .line {
     margin-bottom: 110px;
     opacity: 0;
     transform: translateY(20px);
-    transition: 1s 1s;
+    transition: 1s;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .search {
     width: 95%;
     margin: 0px auto 70px;
     opacity: 0;
     transform: translateX(-20px);
-    transition: 1s 1.8s;
+    transition: 1s 1s;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .search .search-box form {
     display: flex;
@@ -1004,7 +1004,7 @@ header .menu li:nth-of-type(3) .line {
     gap: 30px;
     opacity: 0;
     transform: translateX(20px);
-    transition: 1s 2.3s;
+    transition: 1s 1s;
   }
   #container .con2 .con2-top-wrap .con2-list-wrap .product_list .alpha li {
     text-align: center;
@@ -1040,7 +1040,7 @@ header .menu li:nth-of-type(3) .line {
     font-size: 12px;
     opacity: 0;
     transform: translateY(40px);
-    transition: 1s 2.8s;
+    transition: 1s 1.5s;
   }
   #container .con2 .con2-bottom p:nth-of-type(1) {
     margin: 40px 0px;

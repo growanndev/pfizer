@@ -119,7 +119,7 @@ header .menu li:nth-of-type(1) .line {
     width: 100%;
     animation: move 40s infinite linear forwards alternate;
     opacity: 0;
-    transition: 1s 2.4s;
+    transition: 1s 1.8s;
   }
   @keyframes move {
     100% {
@@ -295,19 +295,19 @@ header .menu li:nth-of-type(1) .line {
     font-size: 24px;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(1) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(2) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(3) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(4) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(5) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3.on h2 {
     opacity: 1;
@@ -485,7 +485,7 @@ header .menu li:nth-of-type(1) .line {
     width: 100%;
     animation: move 40s infinite linear forwards alternate;
     opacity: 0;
-    transition: 1s 2.4s;
+    transition: 1s 1.8s;
   }
   @keyframes move {
     100% {
@@ -663,19 +663,19 @@ header .menu li:nth-of-type(1) .line {
     font-size: 18px;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(1) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(2) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(3) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(4) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(5) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3.on h2 {
     opacity: 1;
@@ -853,7 +853,7 @@ header .menu li:nth-of-type(1) .line {
     width: 100%;
     animation: move 40s infinite linear forwards alternate;
     opacity: 0;
-    transition: 1s 2.4s;
+    transition: 1s 1.8s;
   }
   @keyframes move {
     100% {
@@ -1030,19 +1030,19 @@ header .menu li:nth-of-type(1) .line {
     font-size: 14px;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(1) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(2) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(3) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(4) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3 .con3-list-wrap .con3-list li:nth-of-type(5) {
-    transition: 1s 1.5s;
+    transition: 1s 1s;
   }
   #container .con3.on h2 {
     opacity: 1;
